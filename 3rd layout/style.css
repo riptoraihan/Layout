@@ -1,0 +1,46 @@
+
+
+.header{
+	background-color: white;
+	min-height: 100px;
+
+}
+.mainbody{
+	overflow: hidden;
+}
+
+.control{
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+	
+}
+.blue{
+	background-color: blue;
+	color: white;
+}
+.black{
+	background-color: black;
+	color: white;
+}
+.green{
+	background-color: green;
+}
+
+.too{
+	overflow: hidden;
+}
+.botom{
+	width: 50%;
+	min-height: 100px;
+	float: left;
+}
+
+.pink{
+	background-color: pink;
+
+
+}
+.yellow{
+	background-color: yellow;
+}

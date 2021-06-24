@@ -1,0 +1,26 @@
+
+
+.header{
+	background-color: red;
+	min-height: 100px;
+
+}
+.blue{
+	float: right;
+	background-color: blue;
+	width: 40%;
+	min-height: 100px;
+	color: white;
+}
+.green{
+	float: left;
+	background-color: green;
+	width: 60%;
+	min-height: 100px;
+}
+
+.black{
+	background-color: black;
+	min-height: 100px;
+	color: white;
+}

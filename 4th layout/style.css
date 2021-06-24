@@ -1,0 +1,46 @@
+.mainbody{
+	overflow: hidden;
+}
+
+.blog{
+		width: 40%;
+	background-color: blue;
+	color: white;
+	
+}
+
+.contact{
+		width: 20%;
+	background-color: darkred ;
+
+}
+
+
+.offer{
+		width: 40%;
+	background-color: lime ;
+
+}
+.single{
+	float: left;
+
+	min-height: 100px;
+}
+.midel{
+	background-color: green;
+	min-height: 100px;
+}
+.botom1{
+	width: 40%;
+	background-color: black;
+	color: white;
+}
+.botom2{
+	width: 20%;
+	background-color: white;
+}
+.botom3{
+	width: 40%;
+	background-color: black ;
+	color: white;
+}

@@ -1,0 +1,40 @@
+.head{
+	background-color: yellow;
+	min-height: 100px;
+}
+
+.mainbody{
+	overflow: hidden;
+}
+
+.cm1{
+	background-color: red;
+	width: 25%;
+
+}
+.cm2{
+	background-color: blue;
+	width: 25%;
+	color: white;
+
+}
+.cm3{
+	background-color: white;
+	width: 25%;
+}
+.cm4{
+	background-color: green;
+	width: 25%;
+}
+.single{
+	float: left;
+	min-height: 100px;
+}
+.pink{
+	background-color: pink;
+	width: 50%;
+}
+.orange{
+	background-color: orange;
+	width: 50%;
+}

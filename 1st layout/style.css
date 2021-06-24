@@ -1,0 +1,54 @@
+
+
+.hader{
+	background-color: red;
+	min-height: 80px;
+}
+
+.mainbody{
+	overflow: hidden;
+	border: 5px solid gray;
+}
+
+
+.blog{
+	float: right;
+	width: 40%;
+	min-height: 100px;
+	background-color: yellow ;
+}
+
+.contact{
+	float: left;
+	width: 60%;
+	min-height: 100px;
+	background-color: green ;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.single{
+	float: left;
+	width: 25%;
+	min-height: 100px;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.pink{
+	background-color: pink;
+}
+.brown{
+	background-color: brown;
+}
+
+
+.footer{
+	color: white;
+	background-color: black;
+	min-height: 80px;
+}
